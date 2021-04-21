@@ -11,7 +11,7 @@ const AirpodsArray = () => {
   const [AA6, AA6S] = useImage(AirPods[6]);
   const [AA7, AA7S] = useImage(AirPods[7]);
   const [AA8, AA8S] = useImage(AirPods[8]);
-  const [AA9, AA9S] = useImage(AirPods[9]);
+  const [AA9, AA9S] = useImage(AirPods[9]) ;
 
   const [AA10, AA10S] = useImage(AirPods[10]);
   const [AA11, AA11S] = useImage(AirPods[11]);
